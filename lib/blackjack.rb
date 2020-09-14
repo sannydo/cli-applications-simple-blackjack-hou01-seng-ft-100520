@@ -39,7 +39,7 @@ if choice == "h"
 elsif choice == "s"
   return x
 else 
-  return x
+  invalid_command
   end 
 end
 
