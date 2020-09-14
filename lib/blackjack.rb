@@ -36,7 +36,7 @@ prompt_user
 choice = get_user_input
 while choice == "h"
   x += deal_card
-elsif choice == "s"
+ choice == "s"
 return x
 else 
   puts "Please enter a valid command" 
