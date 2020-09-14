@@ -38,8 +38,6 @@ while choice == "h"
   x += deal_card
 until choice == "s"
 return x
-else 
-  puts "Please enter a valid command" 
   end 
 end
 
