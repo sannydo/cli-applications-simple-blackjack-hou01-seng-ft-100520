@@ -30,18 +30,13 @@ end
 
 
 
-
-def hit?(x)
-prompt_user
-choice = get_user_input
-while x > 21
- choice == "h"
-  x += deal_card
-while x = 21
- choice == "s"
-return x
-prompt_user
-  end 
+def hit? (card_total)
+  # code hit? here
+  prompt_user
+  if get_user_input == 'h'
+    card_total += deal_card
+  end
+    card_total
 end
 
 
