@@ -30,7 +30,7 @@ end
 
 
 
-def hit? (card_total)
+def hit? (current_card_total)
   # code hit? here
   prompt_user
   user_input = get_user_input
