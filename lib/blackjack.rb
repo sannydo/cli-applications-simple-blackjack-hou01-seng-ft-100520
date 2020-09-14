@@ -42,6 +42,7 @@ else
   puts invalid_command
  
   end 
+  x
 end
 
 
