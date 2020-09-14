@@ -38,7 +38,7 @@ if choice == "h"
   x += deal_card
 elsif choice == "s"
   return x
-else 
+else choice != "s" or "h"
   invalid_command
   end 
 end
