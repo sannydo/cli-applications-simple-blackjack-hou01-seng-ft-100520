@@ -40,6 +40,7 @@ elsif choice == "s"
 return x
 else 
   puts "Please enter a valid command"
+  prompt_user
   end 
 end
 
