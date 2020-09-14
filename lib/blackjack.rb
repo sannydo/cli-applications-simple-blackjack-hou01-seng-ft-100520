@@ -43,7 +43,7 @@ else
   
   end 
 end
-
+prompt_user
 
 def invalid_command
   puts "Please enter a valid command"
