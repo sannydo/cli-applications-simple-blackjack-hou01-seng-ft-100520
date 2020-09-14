@@ -38,8 +38,6 @@ if choice == "h"
   x += deal_card
 elsif choice == "s"
   return x
-else 
-  puts "Type 'h' to hit or 's' to stay"
   end 
 end
 
