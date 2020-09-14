@@ -64,11 +64,11 @@ def runner
 welcome
 card_total = initial_round
   until hand > 21
-    display_card_total(hand)
-    hand += hit?(deal_card)
-    end
-    display_card_total(hand)
-    end_game(hand)
+    card_total = hit?(card_total)
+    display_card_total(card_total)
+  end
+  end_game(card_total) #prints out once user has lost
 end
-runner
+
+runner 
     
