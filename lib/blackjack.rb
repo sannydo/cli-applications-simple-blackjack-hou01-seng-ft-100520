@@ -35,9 +35,10 @@ def hit?(x)
 prompt_user
 choice = get_user_input
 while x > 21
- do choice == "h"
+ choice == "h"
   x += deal_card
- do choice == "s"
+while x = 21
+ choice == "s"
 return x
   end 
 end
