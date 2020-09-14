@@ -40,7 +40,7 @@ elsif choice == "s"
 return x
 else 
   puts invalid_command
-  return x
+ 
   end 
 end
 
