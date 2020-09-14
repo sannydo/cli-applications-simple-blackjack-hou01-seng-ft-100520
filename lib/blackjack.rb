@@ -49,7 +49,7 @@ end
 
 def invalid_command
   puts "Please enter a valid command"
-  return prompt_user
+  prompt_user
 end
 
 
