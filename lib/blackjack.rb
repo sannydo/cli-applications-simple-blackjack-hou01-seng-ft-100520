@@ -39,7 +39,7 @@ if choice == "h"
 elsif choice == "s"
 return x
 else 
-  puts "Type 'h' or 's' to stay"
+  puts "Please enter a valid command"
  
   end 
   
