@@ -37,6 +37,7 @@ choice = get_user_input
 if choice == "h"
   x += deal_card
 elsif choice == "s"
+return x
 else 
   puts invalid_command
   return x
