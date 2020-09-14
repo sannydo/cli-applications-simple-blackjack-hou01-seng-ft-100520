@@ -43,8 +43,7 @@ else
 
  
   end 
-  prompt_user
-end
+  choice
 
 
 
