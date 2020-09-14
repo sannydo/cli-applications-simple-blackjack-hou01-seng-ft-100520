@@ -67,4 +67,5 @@ welcome
     display_card_total(hand)
     end_game(hand)
 end
+runner
     
