@@ -34,7 +34,7 @@ end
 def hit?(x)
 prompt_user
 choice = get_user_input
-until choice == "h"
+while choice == "h"
   x += deal_card
 choice == "s"
 return x
