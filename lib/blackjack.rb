@@ -42,7 +42,7 @@ else
   puts "Please enter a valid command"
   
   end 
-  prompt_user
+prompt_user
 end
 
 
