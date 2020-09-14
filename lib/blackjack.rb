@@ -39,7 +39,7 @@ if choice == "h"
 elsif choice == "s"
 return x
 else 
-  puts invalid_command
+  puts "Type 'h' or 's' to stay"
  
   end 
   x
