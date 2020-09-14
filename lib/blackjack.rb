@@ -42,8 +42,9 @@ else
   puts "Please enter a valid command"
   
   end 
+  prompt_user
 end
-prompt_user
+
 
 def invalid_command
   puts "Please enter a valid command"
