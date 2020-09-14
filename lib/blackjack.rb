@@ -40,6 +40,7 @@ while x > 21
 while x = 21
  choice == "s"
 return x
+prompt_user
   end 
 end
 
