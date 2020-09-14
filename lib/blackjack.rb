@@ -44,7 +44,7 @@ else
  
   end 
   choice
-
+end
 
 
 def invalid_command
