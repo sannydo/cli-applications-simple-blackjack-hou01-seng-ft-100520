@@ -40,9 +40,7 @@ elsif choice == "s"
 return x
 else 
   puts "Please enter a valid command"
-  
   end 
-prompt_user
 end
 
 
