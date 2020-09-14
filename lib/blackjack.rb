@@ -39,7 +39,7 @@ if choice == "h"
 elsif choice == "s"
 return x
 else 
-  puts "Please enter a valid command"
+ invalid_command
  
   end 
   
@@ -49,6 +49,7 @@ end
 
 def invalid_command
   puts "Please enter a valid command"
+  return prompt_user
 end
 
 
