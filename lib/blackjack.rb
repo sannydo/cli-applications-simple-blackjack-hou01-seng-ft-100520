@@ -40,10 +40,7 @@ elsif choice == "s"
 return x
 else 
   puts "Please enter a valid command"
-
- 
   end 
-  choice
 end
 
 
