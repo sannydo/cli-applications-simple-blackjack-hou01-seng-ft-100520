@@ -42,7 +42,7 @@ else
   puts "Type 'h' or 's' to stay"
  
   end 
-  x
+  
 end
 
 
